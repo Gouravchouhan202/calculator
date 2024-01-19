@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    text-align: center;
+    margin: 25px;
+}
+#calci
+{
+    background-image: repeating-linear-gradient(rgb(36, 183, 70),rgb(131, 27, 131),rgb(125, 26, 26),white);
+    border: 5px double blue;
+    width: 35%;
+    height: auto;
+    margin: 20px auto;
+}
+
+input[type="text"]
+{
+color: rgb(8, 124, 226);
+background-image: repeating-linear-gradient(white);
+width: 98%;
+height: 70px;
+border-color: black;
+font-size: 50px;
+}
+
+#OnOff
+{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+#ce
+{
+    text-align: right;
+    margin-right: 10px;
+}
+button{
+    background-image: linear-gradient(white , grey);
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 25px;
+    
+}
